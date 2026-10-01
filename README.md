@@ -85,7 +85,9 @@ Selecting `3` exits the program.
 ```text
 Exiting the program. Goodbye!
 ```
-
+<a href="https://drive.google.com/file/d/1i0KzTb8EkzHdRqoxehSbsow6GL7kQvIj/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/▶-Watch%20Demo%20Video-181717?style=for-the-badge&logo=github&logoColor=white" alt="Watch Demo Video" />
+</a>
 ## 🧠 Python Concepts Used
 
 * `print()`
